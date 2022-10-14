@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Iggoth aka Eric
+- I am a new Python developer who is finnaly getting ahead of things
+- I hope to someday learn more than just Py, but I'm just a begginer.
+- Hope to get some experence for programing.
